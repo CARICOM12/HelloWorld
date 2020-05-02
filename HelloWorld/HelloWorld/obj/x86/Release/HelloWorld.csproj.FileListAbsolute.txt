@@ -1,0 +1,2 @@
+/home/alex/Projects/HelloWorld/HelloWorld/bin/Release/HelloWorld.exe
+/home/alex/Projects/HelloWorld/HelloWorld/obj/x86/Release/HelloWorld.exe
